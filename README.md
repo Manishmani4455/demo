@@ -1,3 +1,3 @@
 # demo
 This is my first repository
-Auther-Manish
+helo my name is Manish
